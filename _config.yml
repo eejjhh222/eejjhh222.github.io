@@ -15,10 +15,10 @@ Maked: 2018.08.12
 
 share:
   facebook: true
-  twitter: true 
-  gplus: true
-  linkedin: true
-  pinterest: true
+  twitter: false
+  gplus: false
+  linkedin: false
+  pinterest: false
   email: true
 
 social:
