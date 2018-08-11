@@ -9,9 +9,10 @@ title: board
 
 <div class="page-content wc-container">
 	<div class="post">
-		<h1>Tags</h1>  
+		<h1>board</h1>  
 		<ul>
 			{% for board in site.tags %}
+			<li><a href="{{ '/board/' | append:board[0] | relative_url }}">{{ board[0] }}</a></li>
 			<li><a href="{{ '/_board/' | append:board[0] | relative_url }}">{{ board[0] }}</a></li>
 			{% endfor %}
 		</ul>
