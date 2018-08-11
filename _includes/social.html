@@ -37,5 +37,11 @@
       <a title="{{ site.social.rss }} RSS" href="{{ site.social.rss | relative_url }}" target="_blank"><i class="fas fa-rss fa-2x"></i></a>
     </li>
   {% endif %}
+  
+  {% if site.social.naver %}
+    <li>
+      <a title="{{ site.social.naver }} on NaverIn" href="https://blog.naver.com/{{ site.social.naver }}" target="_blank"><i class="fab fa-naver fa-2x"></i></a>
+    </li>
+  {% endif %}
 
 </ul>

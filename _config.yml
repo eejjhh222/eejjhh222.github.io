@@ -10,8 +10,8 @@ url: http://eejjhh222.github.io
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: '/'
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: Custom By JiHoon.Lee
+Maked: 2018.08.12
 
 share:
   facebook: true
@@ -23,11 +23,12 @@ share:
 
 social:
   github: eejjhh222
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
-  rss: feed.xml
+  naver: eejjhh222
+  #stackoverflow: ''
+  #linkedin:
+  #instagram: ''
+  #lastfm: ''
+  #rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
