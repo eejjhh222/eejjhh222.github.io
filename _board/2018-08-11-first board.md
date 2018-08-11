@@ -32,7 +32,7 @@ if($var == 'php'){
  
  
 * * *
-@[](https://blog.naver.com/eejjhh222)
+[네이버블로그](https://blog.naver.com/eejjhh222)
 ^ Super script ^
 ~ sub script ~
 ~~strike through~~
