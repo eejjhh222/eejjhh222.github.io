@@ -3,7 +3,7 @@ layout: post
 title: "board"
 
 ---
-#git blog 게시글 등록을 Test 합니다.
+#git blog 게시글 등록을 Test 합니다.(post)
 
 ==1. php code
 ==

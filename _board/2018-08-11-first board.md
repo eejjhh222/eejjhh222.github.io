@@ -3,10 +3,9 @@ layout: board
 title: "board"
 
 ---
-#git blog 게시글 등록을 Test 합니다.
+#git blog 게시글 등록을 Test 합니다.(board)
 
-==1. php code
-==
+==1. php code==
 
 ```
 if($var == 'php'){
@@ -16,7 +15,15 @@ if($var == 'php'){
         
     }
 ```
-    
+    ==2. highlight==
+    {% highlight php %}
+    if($var == 'php'){
+    	echo 'php!!';
+    }else{
+    	echo "what's lan??";
+        
+    }
+    {% endhighlight %}
     2018년 8월 11일 오후 11시 46분
     
  더이상 어떻게 꾸미는걸까
