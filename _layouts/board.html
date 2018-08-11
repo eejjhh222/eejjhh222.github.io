@@ -13,8 +13,8 @@
                       <time>{{ page.date | date_to_string }}</time>
                     </div>
                     <ul>
-                      {% for tag in page.tags %}
-                        <li><a href="{{ '/tag/' | append: tag | relative_url }}">{{ tag }}</a></li>
+                      {% for board in page.tags %}
+                        <li><a href="{{ '/board/' | append: board | relative_url }}">{{ board }}</a></li>
                       {% endfor %}
                     </ul>
                   </div>
